@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on an important thing
+
 - 🌱 I’m currently learning that will help me
 - 🤔 I’m looking for help with my problem
-- 💬 Ask me about anything
+
 <!--
 - ⚡ Fun fact: I am awesome 
 --->
