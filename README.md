@@ -49,5 +49,3 @@
 
 📫 Feel free to reach out to me at [deepshikhadk1234@gmail.com](mailto:deepshikhadk1234@gmail.com) or connect with me on GitHub! Let's collaborate and innovate together! 🚀
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/26471969/7e886cd5-159d-4737-b051-0c57ccf5cbae/DeepshikhaKumari-Resume.pdf
