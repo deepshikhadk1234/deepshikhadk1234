@@ -1,94 +1,53 @@
-# Deepshikha Kumari
+# My Profile
 
-<!----- !----- ![Profile Banner](https://your-image-link.com/banner.jpg) ---->
+👋 Hi there! I'm Deepshikha Kumari, a passionate software engineer and product manager with a strong foundation in computer science and engineering. I graduated from IIT Patna in 2023 and am currently working as a Deputy Software Engineer at Bharat Electronics Limited.
 
-**Location:** Bangalore  
-**Education:** IIT Patna (BTech, CSE)  
-**Email:** [deepshikhadk1234@gmail.com](mailto:deepshikhadk1234@gmail.com)   
-**LinkedIn:** [deepshikha-1234](https://www.linkedin.com/in/deepshikha-1234/)  
-**GitHub:** [deepshikhadk1234](https://github.com/deepshikhadk1234)  
+## 🎓 Education
 
----
-
-## 🚀 About Me
-I am a passionate software engineer with a strong background in computer science. I love solving problems and building efficient solutions. Currently, I am working at Bharat Electronics Limited as a Deputy Engineer. My interests include web development, AI, and data science.
-
----
+- **Bachelor of Technology in Computer Science Engineering**  
+  Indian Institute of Technology, Patna  
+  2019 – 2023
 
 ## 💼 Professional Experience
 
-**Deputy Engineer, Software SBU**  
-*Bharat Electronics Limited*  
-*08/2023 – present | Bangalore*
+### Bharat Electronics Limited
+**Deputy Software Engineer**  
+08/2023 – Present | Bangalore
 
-- Developed a user-friendly website for the Marketing Department, serving 500+ users.
-- Implemented a secure login system ensuring data integrity and confidentiality.
-- Engineered an Excel sheet management platform with seamless version control.
-- Tech stack: Node.js, React.js, PostgreSQL, HTML, CSS, JavaScript.
+- Developed a user-friendly website for the Marketing Department, enhancing operational efficiency by **30%**.
+- Implemented a secure authentication system to ensure data integrity and confidentiality.
+- Created a comprehensive Excel sheet management platform, improving data tracking efficiency by **70%**.
+- Automated backend processes, reducing manual intervention by **35%**.
 
+### EQLFIN, Fintech B2B Startup
 **Product Manager Intern**  
-*EQLFIN, Fintech B2B Startup*  
-*04/2023 – 06/2023 | Remote*
+04/2023 – 06/2023 | Remote
 
-- Collaborated with cross-functional teams as a Technical Product Manager.
-- Documented and tested payment and invoice APIs using Postman.
-- Spearheaded the onboarding process for the inaugural client.
-- Conducted market research to refine product offerings.
+- Collaborated with cross-functional teams to define and implement technical product requirements.
+- Documented and tested over **15 payment and invoice APIs**, ensuring seamless integration.
+- Conducted market research, leading to a **15%** increase in client acquisition.
 
----
+## 🚀 Projects
 
-## 🔧 Projects
+### AI-Powered Job Application Assistant
+- Developed a Chrome extension to detect job listings and streamline job application tracking, reducing manual tracking time by **50%**.
 
-**AI-Powered Job Application Assistant**  
-*Developed a Chrome extension to automate job application tracking*
-
-- Detected job listings on sites like LinkedIn, Jobslever, Greenhouse, Naukri.com.
-- Extracted job title, post date, and company name.
-- Used Notion APIs for a user-friendly interface.
-- Tech Stack: HTML, CSS, JavaScript, Node.js, Notion API.
-
-**Placement Cell Discord Bot**  
-*Managing the operation of the placement cell via Discord Bot*  
-*06/2021 – 08/2021*
-
-- Identifies users through roll numbers and makes announcements.
-- Backend with Node.js and email authentication with Firebase.
-- Bot commands using Discord APIs.
-
-**Reinforcement Learning based Graph Generative model for targeted Drug Design (SARS-CoV-2)**  
-*Mentor: Dr. Rajeev Mishra, IIT Patna*  
-*12/2021 – 03/2022*
-
-- Generated novel molecules for SARS-CoV2 target protein using GNN.
-- Used RL based model to improve scoring function estimation.
-- Tech Stack: Python, Reinforcement Learning, GNN, JT-VAE model, Microsoft Azure.
-
----
+### Reinforcement Learning based Graph Generative Model for Targeted Drug Design (SARS-CoV-2)
+- Generated novel molecules for target proteins using a drug target interaction model, improving scoring function estimation.
 
 ## 🛠️ Skills
 
-**Languages and Frameworks:**  
-C++, C, Python, Java, HTML, CSS, Node.js, JavaScript, MySQL, ReactJS, Redux, PostgreSQL, Microsoft Azure, Firebase, Google Sheet APIs, Discord APIs, Postman.
-
----
+- Frontend: HTML, CSS, JavaScript, ReactJS, Redux, Next.js
+- Backend: Java, Python, C, C++, Node.js, Express.js, PostgreSQL, MySQL, API testing (Postman), REST API, Spring Boot, MongoDB
+- Platforms & Tools: Microsoft Azure, Firebase, Google Sheet APIs, Notion API, Postman, CI/CD, Kubernetes, Theneo (API Documentation)
 
 ## 🏆 Achievements
 
-- **Top 12**, Hack the Crisis Iceland, International Hackathon
-- **Winner**, NIT Patna Hack 2.0, Hackathon
-- Solved 500+ questions on Leetcode, CodeChef, GeeksforGeeks, and Codeforces.
-- **Rank 115** out of 4700 participants in CodeChef Starters 22 Division 2.
-- **Secured 89** rank in November Cook-Off division 2 on CodeChef.
-- **Rank 589** out of 14000 participants in Codeforces Round 730 Div 2.
+- Top 12 at Hack the Crisis Iceland, International Hackathon
+- Winner at NIT Patna Hack 2.0
+- Solved **500+** coding questions on platforms like LeetCode and CodeChef.
 
----
+📫 Feel free to reach out to me at [deepshikhadk1234@gmail.com](mailto:deepshikhadk1234@gmail.com) or connect with me on GitHub! Let's collaborate and innovate together! 🚀
 
-## 📫 Contact Me
-
-Feel free to reach out to me via [email](mailto:deepshikhadk1234@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/deepshikha-1234/).
-
-<!----- ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=deepshikhadk1234) --->
-
----
-
-⭐️ From [deepshikhadk1234](https://github.com/deepshikhadk1234)
+Citations:
+[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/26471969/7e886cd5-159d-4737-b051-0c57ccf5cbae/DeepshikhaKumari-Resume.pdf
